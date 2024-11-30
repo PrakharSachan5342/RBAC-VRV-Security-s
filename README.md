@@ -1,15 +1,15 @@
-# 🔒 Admin Dashboard for User, Role, and Permission Management
+# 🔒 Role-Based Access Control (RBAC)
 
-![VRV Security Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fcompany%2Fvrv-security-cum-manpower-agency-opc-private-limited&psig=AOvVaw1gmv2GQcGIw0fgWO7nIeH6&ust=1733046409177000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDQs-zkg4oDFQAAAAAdAAAAABAE)
+![VRV Security Logo](./path-to-your-image/logo.png)
 
 ## 🚀 **Overview**
 
-Welcome to the **Admin Dashboard** designed for secure and efficient **User, Role, and Permission Management**. This dashboard provides a robust interface for administrators to:
-- 🔧 Manage users with ease.
+Welcome to the **Role-Based Access Control (RBAC) Admin Dashboard**, designed for secure and efficient management of users, roles, and permissions. This dashboard provides a robust and intuitive interface for administrators to:
+- 🔧 Manage users efficiently.
 - 🛠️ Create, edit, and assign roles.
 - 🛡️ Configure dynamic permissions for roles.
 
-This project emphasizes security and scalability, offering an intuitive interface to handle critical administrative tasks effectively.
+This project emphasizes security, scalability, and user-friendly design for critical administrative tasks.
 
 ---
 
