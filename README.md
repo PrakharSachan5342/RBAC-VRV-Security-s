@@ -1,6 +1,6 @@
 # 🔒 Role-Based Access Control (RBAC)
 
-![VRV Security Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fcompany%2Fvrv-security-cum-manpower-agency-opc-private-limited&psig=AOvVaw1gmv2GQcGIw0fgWO7nIeH6&ust=1733046409177000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDQs-zkg4oDFQAAAAAdAAAAABAE)
+![VRV Security Logo](https://media.licdn.com/dms/image/v2/C4E1BAQEJPKdzHcBiEA/company-background_10000/company-background_10000/0/1611216245992/vrv_security_cum_manpower_agency_opc_private_limited_cover?e=2147483647&v=beta&t=8PwC0PcWul3nuQkLE3uACXa-EI2pbUiyU4jiCiWFPIk)
 
 ## 🚀 **Overview**
 
