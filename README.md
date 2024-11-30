@@ -61,11 +61,9 @@ Ensure you have the following installed:
 - 🖥️ Git
 - npm install
 - npm run dev
-# For production build
-npm run build
+- 🟢 For production build - npm run build
+- 🟢 To preview production build - npm run preview
 
-# To preview production build
-npm run preview
 
 ### **Steps**
 1. Clone the repository:
